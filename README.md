@@ -1,2 +1,2 @@
-# First-Code-RPS
+# RPS
 RPS : ROCK PAPERS SCİSSORS
