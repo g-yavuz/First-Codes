@@ -1,2 +1,2 @@
-# First-Codes
-RPS-HANGMAN
+# First-Code-RPS
+RPS : ROCK PAPERS SCİSSORS
