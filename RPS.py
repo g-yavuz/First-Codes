@@ -3,7 +3,7 @@ import random
 
 class RockPaperScissorsGame:
     def __init__(self, root):
-        """Başlangıçta gerekli tüm ayarları yapar."""
+        """Başlangıçta ayarları yap."""
         self.player_score = 0
         self.computer_score = 0
         self.game_mode = 'normal'  # Varsayılan oyun modu normal
